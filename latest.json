@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/Yoon-robin/VoidDropper/releases/latest",
-  "notes": "새 판 알림과 배포 자동화. 시즌 프로필 화면 대응."
+  "zip": "https://github.com/Yoon-robin/VoidDropper/releases/download/v1.0.2/VoidDropper-1.0.2.zip",
+  "notes": "자동 업데이트: 버튼 하나로 받아서 바꾸고 다시 켠다"
 }
